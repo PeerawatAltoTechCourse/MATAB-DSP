@@ -1,0 +1,6 @@
+% Hello , Let's start learning DSP by MATLAB
+
+n=-4:4; % there are nine samples
+delta_n=[0,0,0,0,1,0,0,0,0] ;
+stem() % stem(X,Y,'filled',LineSpec,options)
+
