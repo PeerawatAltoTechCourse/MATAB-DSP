@@ -38,9 +38,13 @@
 
 <img width="690" alt="q1a" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/4f1b6d62-d2c5-411c-b4b4-0bf49cd09b76">
 
+- On line 5 , showing how we make sequence of signal from unit functions
+
 
 **Unit impulse signal from unit step signals using subplot**
 
+
+<img width="734" alt="subplot" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/7e8c59f3-40d0-4d37-a615-89f964705c07">
 
 
 
