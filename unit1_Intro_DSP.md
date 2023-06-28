@@ -57,9 +57,48 @@
  
 **Ramp signal**
 
+<img width="758" alt="ramp" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/24b867ad-a0b5-4810-9007-d03d68eefe58">
+
+
 - [equation] ramp_n = u[n] x n 
 
 - need basic about multiplication , which only use in matlab
 
-- We need only number multiplication so we use ".*" instead of  " * " or Matrix multiplication  
+- We need only number multiplication so we use ".*" instead of  " * " or Matrix multiplication
+
+
+**Trigon Functions**
+
+- cosine and sine
+  
+<img width="670" alt="sincos m" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/fb3cc18c-fce5-4e1a-a285-6dcf957d577c">
+
+- sinc
+
+
+<img width="960" alt="sinc" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/110005e3-69f9-4d6b-a99e-b67a31dc9433">
+
+- the matters is parameter in the function
+
+  _Question 2_
+
+<img width="458" alt="q2" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/cec2e4dc-e2eb-43a6-b3b7-e016b1b9be67">
+
+<img width="607" alt="q2" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/0c50371f-3778-415e-9c41-67d796685d9a">
+
+- show you how to use trigon function in sequence
+
+**Exponential function**
+
+<img width="485" alt="expo" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/ea350489-b18e-495f-a5cb-3dcf84dfadfa">
+
+-  e = integer.^n by n is sequence of integer
+
+**Complex Exponential Signal**
+
+
+<img width="512" alt="complexexpo" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/b93ad109-fa92-4538-a0b0-6363ffb57ac9">
+
+- there four things that we can show about complex number , if x=expo(number)  1.) real(x) , 2.) imag(x) , 3.) abs(x) , 4.) angle(x)
+
 
