@@ -19,3 +19,30 @@
 - when we use stem we put x-axis on X position and y-axis on Y position.
 -(when you want to run the code , you just copy the code and paste it on Command window )
 - [syntax plot] delta = [zeros(start1,stop1) 1 zeros(start2,stop2)]
+
+
+**Unit step function**
+
+<img width="748" alt="unit" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/3614d2d8-6818-4571-9bbc-558e9a0fbb94">
+- matlab code for "unit function"
+
+- the unit function has value = 1 when time sampling  since zero
+  
+- [syntax] unit_n = n >= 0 ; % when n is the scope of time sample
+
+
+
+-_On to Question 1_
+
+<img width="501" alt="Q1" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/1460aa10-fce7-4a09-bdbb-aa1dc5a3a277">
+
+<img width="690" alt="q1a" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/4f1b6d62-d2c5-411c-b4b4-0bf49cd09b76">
+
+
+**Unit impulse signal from unit step signals using subplot**
+
+
+
+
+
+
