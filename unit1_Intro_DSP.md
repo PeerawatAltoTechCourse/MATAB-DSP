@@ -47,6 +47,19 @@
 <img width="734" alt="subplot" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/7e8c59f3-40d0-4d37-a615-89f964705c07">
 
 
+- You can do operations between the two signal graphs and collect the value on the thrid signal
 
+- we show all the three signals once in one figure using "subplot"
 
+- for comparing 
+
+- note that we use it constructly in term of matrix , so we use rows number(m) , cols number(n) , position(p) as parameter of subplot(m,n,p)
+ 
+**Ramp signal**
+
+- [equation] ramp_n = u[n] x n 
+
+- need basic about multiplication , which only use in matlab
+
+- We need only number multiplication so we use ".*" instead of  " * " or Matrix multiplication  
 
