@@ -12,6 +12,10 @@
 
 **Histogram**
 
+<img width="459" alt="histhelp" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/3ff3f4cd-5b72-4cc5-be6b-ee58187355ae">
+
+- a "bin" refers to a specific interval or range into which the data is divided. It represents a segment on the x-axis of the histogram, defining a group or category for the data values.
+
 - let's assignig random matrix to a parameter and use it on histogram
 
 - [syntax] hist() 
@@ -32,9 +36,17 @@
 
 - The x-axis has all available gray levels, and the y-axis indicates the number of pixels that have a particular gray-level value.
 
+  <img width="657" alt="histmean" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/0c8f1dc7-ed27-4eb4-a38c-8523bb2154ed">
 
 
-_Question3_
+- Mean Histogram when you assign a value and add by random numbers
+
+
+
+
+
+
+
 
 
 
