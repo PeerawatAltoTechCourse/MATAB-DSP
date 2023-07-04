@@ -21,6 +21,10 @@ _- U1Ex1 : Calculate the **"Energy"** for these signals_
 
 <img width="746" alt="energyq1 2" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/a9fe0d7c-f0a2-4925-a78a-8c991806ea4a">
 
+**1.2 Power**
+
+
+
 **2.Time reversal of a sequence**
 
 <img width="468" alt="time_rev" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/8ee6ccad-f2ad-4d77-ab83-c808c6cda8a0">
