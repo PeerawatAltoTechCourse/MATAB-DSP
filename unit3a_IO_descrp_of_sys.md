@@ -35,7 +35,10 @@
 - and add the noise to the sine wave
 
 _Let's filtering_
+
+
 <img width="649" alt="maf3" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/c557727c-f613-4b12-9901-d7e07295e663">
+
 
 <img width="634" alt="maf4" src="https://github.com/PeerawatAltoTechCourse/MATLAB-DSP/assets/132571902/fcd31eb3-3100-4cdd-a19d-975904bba36e">
 
